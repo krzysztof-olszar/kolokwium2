@@ -1,0 +1,8 @@
+/home/krzysztof/Desktop/kolo/zad4build/CMakeFiles/install/strip.dir
+/home/krzysztof/Desktop/kolo/zad4build/CMakeFiles/install/local.dir
+/home/krzysztof/Desktop/kolo/zad4build/CMakeFiles/install.dir
+/home/krzysztof/Desktop/kolo/zad4build/CMakeFiles/list_install_components.dir
+/home/krzysztof/Desktop/kolo/zad4build/CMakeFiles/rebuild_cache.dir
+/home/krzysztof/Desktop/kolo/zad4build/CMakeFiles/edit_cache.dir
+/home/krzysztof/Desktop/kolo/zad4build/CMakeFiles/libtest.dir
+/home/krzysztof/Desktop/kolo/zad4build/CMakeFiles/Student.dir

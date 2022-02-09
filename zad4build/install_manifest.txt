@@ -1,0 +1,2 @@
+/home/krzysztof/Desktop/kolo/zad4/lib/libStudent.a
+/home/krzysztof/Desktop/kolo/zad4/bin/libtest
